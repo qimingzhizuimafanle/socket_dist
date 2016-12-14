@@ -1,0 +1,2 @@
+# socket_dist
+Erlang程序设计附录B例子，建立一个简单的服务器来学习如何使用lib_chan
